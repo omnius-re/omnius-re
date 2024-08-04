@@ -6,13 +6,6 @@
 
 I'm a passionate and versatile AI Engineer with a strong background in Data Science, Data Engineering, and Machine Leanring. I work extensively with Python, PyTorch, & TensorFlow, and I'm well-versed in building and deploying applications using FastAPI and AWS.
 
-## Skills
-- **Data Science**: Feature Engineering, Prediction/Classificaiton/Regression, Model Training & Evaluation, Operations Research & Systems
-- **Data Engineering**: ETL, Data Pipelines, Synthetic Data Generation, Automation
-- **Machine Learning**: GenAI, Neural Networks, NLP, Transformers, Recommendation systems, Computer Vision, Causal Inference 
-- **MLOps**: CI/CD, Documentation, Testing & Debugging, Evaluation, Monitoring, Data Pipelines, Automation, Frontend UI, Production & Deployment
-- **AI Engineering**: Advanced RAG (Semantic Chunking, Hybrid Retrieval), LLM Fine-Tuning, Building LangChain Multi-Agent Systems, Advanced Prompt Engineering, API Model Integration with HuggingFace, Model Deployment with FastAPI, Model Evaluation & Benchmarking
-
 ## Interests
 I'm particularly interested in the applications of AI in Healthcare, Fintech, Enterprise and Blockchain.
 
