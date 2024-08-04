@@ -55,7 +55,7 @@ I'm particularly interested in the applications of AI in Healthcare, Fintech, En
 - **Kaggle Challenges & Hackathons**: Engaging in Kaggle challenges and hackathons to tackle real-world problems and refine my skills.
 
 
-## Future Aspirations
+## Future Plans
 
 - **Implementing New Ideas**: Applying insights from research papers to launch innovative projects and business solutions.
 - **Expanding Knowledge**: Continuously advancing my skills in AI Engineering.
