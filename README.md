@@ -4,7 +4,7 @@
 
 # 🌟 About Me
 
-I'm a passionate and versatile AI Engineer with a strong background in Data Science, Data Engineering, and Machine Leanring. I work extensively with Python, PyTorch, TensorFlow, & PyTorch and I'm well-versed in building and deploying applications using FastAPI and AWS.
+I'm a passionate and versatile AI Engineer with a strong background in Data Science, Data Engineering, and Machine Leanring. I work extensively with Python, PyTorch, & TensorFlow, and I'm well-versed in building and deploying applications using FastAPI and AWS.
 
 ## 🔧 Skills
 - **Data Science**: Feature Engineering, Prediction/Classificaiton/Regression, Model Training & Evaluation, Operations Research & Systems
