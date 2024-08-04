@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">CS student passionate about ML and AI Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omnius-re&label=Profile%20views&color=0e75b6&style=flat" alt="omnius-re" /> </p>
 
-- 🔭 I’m currently working on [Multi Agent Systems](https://github.com/omnius-re/Multi-Agent-System)
+# 🌟 About Me
 
-- 🌱 I’m currently learning **MIT Program - Data Science & ML, MLOps(AWS), LangChain for LLM-Application Development**
+I'm a passionate and versatile AI Engineer with a strong background in Data Science, Data Engineering, DevOps, and Machine Learning. My expertise spans across Deep Learning, LLM-applications, and Operations Research. I work extensively with Python, PyTorch, TensorFlow, & PyTorch and I'm well-versed in building and deploying applications using FastAPI and AWS.
 
-- 👯 I’m looking to collaborate on **Building AI Driven solutions**
+## 🔧 Skills
+- **Background**: Data Science, Data Engineering, Machine Learning, Deep Learning, LLM-Applications, NLP, Computer Vision
+- **MLOps**: CI/CD, Documentation, Testing & Debugging, Evaluation, Monitoring, Data Pipelines, Automation, Frontend UI, Production & Deployment
+- **AI Engineering**: Advanced RAG (Semantic Chunking, Hybrid Retrieval), LLM Fine-Tuning, LangChain, Building Multi-Agent Systems (LangChain/LangGraph/LangSmith/LangServe), API Model Integration with HuggingFace, Model Deployment with HuggingFace & FastAPI, Model Evaluation & Benchmarking
 
-- 💬 Ask me about **GenAI, NLP, Advanced RAG, LangChain**
+## 🚀 Interests
 
-<h3 align="left">Connect with me:</h3>
+I'm particularly interested in the applications of AI in Enterprise, Healthcare, Fintech, and Blockchain.
+
+## 💡 Projects
+
+- [Multi Agent Systems](https://github.com/omnius-re/Multi-Agent-System): Leveraging multi-agent systems for improved code generation and quality assurance.
+- [Advanced RAG Applications](https://github.com/omnius-re/RAG-Applications): Utilizing LangChain for advanced retrieval-augmented generation.
+- [Chatbot Development](https://github.com/omnius-re/Llama3-Discord-Chatbot): Building a chatbot with YouTube video and image processing capabilities.
+
 <p align="left">
 </p>
 
