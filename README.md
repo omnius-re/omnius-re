@@ -13,7 +13,7 @@ I'm particularly interested in the applications of AI in Healthcare, Fintech, En
 
 - [Multi Agent Systems](https://github.com/omnius-re/Multi-Agent-System): Leveraging multi-agent systems for improved code generation and quality assurance.
 - [RAG Applications](https://github.com/omnius-re/RAG-Applications): Utilizing LangChain for advanced retrieval-augmented generation.
-- [Multimodal Chatbot Development](https://github.com/omnius-re/Llama3-Discord-Chatbot): Building a chatbot with text, YouTube videos and image processing capabilities along with generating multimodal outputs.
+- [Multimodal Chatbot Development](https://github.com/omnius-re/Llama3-Discord-Chatbot): Building a chatbot with text, YouTube videos and image processing capabilities.
 - [GPT Transformer](https://github.com/omnius-re/GPT-Text-Generator): Text prediction for books using gpt transformer architecture built from scratch
 
 <p align="left">
