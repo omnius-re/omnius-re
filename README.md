@@ -47,7 +47,6 @@ I'm particularly interested in the applications of AI in Healthcare, Fintech, En
 
 ## Ongoings
 
-- **Gen AI Internship**: Working at a healthcare company to implement and test AI-Driven insurance claim auditing
 - **AI-Driven Startups**: Building and developing AI-Driven startups to explore new business opportunities and applications.
 - **MIT Program**: Working towards completing my MIT Program on Data Science & MLOps to deepen my knowledge and skills.
 - **Research Papers**: Delving into cutting-edge research and articles to inspire and inform projects.
