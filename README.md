@@ -4,7 +4,7 @@
 
 # About Me
 
-I'm a passionate and versatile AI Engineer with a strong background in Data Science, Data Engineering, and Machine Learning. I work extensively on LLM-applications, deep learning, operations research & systems and I'm well-versed in building and deploying applications using FastAPI and AWS.
+I'm a passionate and versatile software engineer with a strong background in Data Science, Data Engineering, and Machine Learning. I work extensively on LLM-applications, deep learning, operations research & systems and I'm well-versed in building and deploying applications using FastAPI and AWS.
 
 ## Interests
 I'm particularly interested in the applications of AI in Healthcare, Fintech, Enterprise and Blockchain.
