@@ -61,6 +61,4 @@ I'm particularly interested in the applications of AI in Healthcare, Fintech, En
 - **Expanding Knowledge**: Continuously advancing my skills in AI Engineering.
 - **Blockchain Solutions**: Exploring new avenues in AI and decentralized multi-agent systems to drive advancements in Blockchain.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnius-re&" alt="omnius-re" />
-</p>
+
